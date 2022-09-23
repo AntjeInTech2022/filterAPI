@@ -1,0 +1,33 @@
+.alert{
+    display: none;
+ }
+ 
+
+/*top row*/
+ .custom-top{
+    height: 50px;
+}
+
+
+
+/* filter */
+ .my-custom-row{
+     height: 75px;
+ }
+
+/* filter */
+.placeholder{
+    height: 25px;
+    background-color: white;
+}
+
+
+ .thead-dark{
+     background-color:black;
+     color: white;
+ }
+
+ .showMore{
+    display: none;
+ }
+ 
